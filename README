@@ -1,0 +1,3 @@
+Aplikace v KOTLIN
+V téhle aplikaci jsem ukazoval jak se může různě modifikovat google mapa. Aplikace sleduje pozici zařízení a je tam i statická cesta z Dánska do Prahy.
+Nejspíš nebude ale fungovat protože tam je starý API Key pro google maps
